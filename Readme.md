@@ -31,18 +31,18 @@ Selenium Tests
 ## Test Requirements
 
 <b> Test Scenario 1: </b>
-1. Open up google chrome browser (This project has google chrome driver version 115- which is installed and setup as path)
+1. Open up google chrome browser (This project has google chrome driver version 124.0.6367.208 (Official Build) (64-bit)- which is installed and setup as path)
 2. Launch the application: https://anupdamoda.github.io/AceOnlineShoePortal/index.html#
 3. Click on the hamburger menu
 4. Click on 'SignIn Portal'
-5. Enter the username
-6. Enter the password
+5. Enter the username - sa
+6. Enter the password - sa
 7. Click on Login button
 8. Verify if the Product Category name is matching with expected.
    The application can be run locally.
 
 <b> Test Scenario 2: </b>
-1. Open up google chrome browser (This project has google chrome driver version 115- which is installed and setup as path)
+1. Open up google chrome browser (This project has google chrome driver version 124.0.6367.208 (Official Build) (64-bit)- which is installed and setup as path)
 2. Launch the application: https://anupdamoda.github.io/AceOnlineShoePortal/index.html#
 3. Click on the hamburger menu
 4. Click on 'SignIn Portal'
@@ -57,7 +57,4 @@ Selenium Tests
 * [Maven](https://maven.apache.org/download.cgi)
 * [ChromeDriver](https://chromedriver.chromium.org/downloads) 
 
-## Execution modes ## 🤖 Starting up
 
-command: mvn test
-<b> anupdamoda </b>
